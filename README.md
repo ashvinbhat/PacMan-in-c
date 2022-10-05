@@ -1,4 +1,4 @@
-#PACMAN
+# PACMAN
 
 ## Requirements
   - C compiler
